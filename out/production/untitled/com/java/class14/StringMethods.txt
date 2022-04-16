@@ -1,0 +1,15 @@
+
+
+1. .equals()
+2. equalsIgnorecase()
+3. subString()
+4. toUpperCase() / toLowerCase()
+5. length()
+6. charAt()
+7. replace()
+8. replaceAll()
+9. .isEmpty()
+10. concat();
+11. trim();
+12. valueOf()
+13. compareTO

@@ -1,0 +1,9 @@
+logical operator by Priority
+
+1. And - &&
+2. Or - ||
+3. Not - !
+
+combines two conditions
+
+logical operators only work with boolean data types (conditions)

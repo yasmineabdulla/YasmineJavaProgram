@@ -1,0 +1,13 @@
+
+
+increment:
+ i++;
+
+ decrement:
+ i--;
+
+Prefix vs Postfix
+++i;   vs i++;
+
+pre: increment the variable first and then do all other operations.
+post: complete all other operations first and then increment the variable.

@@ -1,0 +1,26 @@
+Types of If Statements
+
+1. Simple If
+2.
+
+Switch statements:
+formant:
+
+switch(xxx)
+    case xcan only put integer or string, not boolean, double, etc. :
+    default x:
+when there is a match, it executes everything after that as well.
+Unless you put break; after each case
+
+the equivalent of the else is:
+
+default = when none of the cases are true, you follow this code
+make sure to put a break in the case before the default
+
+default doesn't have to be zero, but just make sure you put a break so it
+doesn't go into the next
+
+you can combine multiple cases to do the same command
+- see switch example
+
+Switch is not useful when you have large ranges, only for static values
